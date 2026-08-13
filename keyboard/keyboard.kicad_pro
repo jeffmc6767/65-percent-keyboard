@@ -524,7 +524,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "../Production Files/",
+      "plot": "../Production Files/PCB/",
       "specctra_dsn": "",
       "vrml": ""
     },

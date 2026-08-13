@@ -84,7 +84,7 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "../Production Files/")
+			(outputdirectory "../Production Files/PCB/")
 		)
 	)
 	(footprint "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_1.00u_PCB-Gateron-KS-3x switch"
