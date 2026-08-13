@@ -22,13 +22,12 @@ Here's some images:
 I will be using PLA matte white to print the case out (because it has no LED's)
 
 BOM:
--
 
-73x switches: 29.99$
-75x 1N4148 Diodes: 5$
-2x PEC11R-4220f-S0024-ND: $8.60$
-1x Raspberry Pi Pico 2WH: 21$
-1x 0.91" OLED: ~9$
-3d filament: ~5$
-1x Tin Lead Sn60-Pb40 (0.6mm, 50g): $12
-1x PCB: 76$
+- 73x switches: $29.99
+- 75x 1N4148 Diodes: $5
+- 2x PEC11R-4220f-S0024-ND: $8.60
+- 1x Raspberry Pi Pico 2WH: $21
+- 1x 0.91" OLED: $9
+- 1x Tin Lead Sn60-Pb40 (0.6mm, 50g): $12
+- 1x PCB: $76
+- 6.25U and 2.00U stabilizer: $15
