@@ -1,5 +1,6 @@
 This is my 65-70% keyboard, which I like to call 67% keyboard.
 
+MY BOM IS IN THE PRODUCTION FILES FILE!!!
 Here's what it has
 -
 
