@@ -1,0 +1,24 @@
+{
+    "keyboard_name": "xiapad",
+    "url": "",
+    "maintainer": "Jeff",
+    "width": 3,
+    "height": 3,
+    "processor": "SAMD21G18",
+    "bootloader": "sam-ba",
+    "board": "SEEED_XIAO_SAMD21",
+    "diode_direction": "COL2ROW",
+    "matrix_pins": {
+        "cols": ["A11", "B08", "B09"],
+        "rows": ["A02", "A04", "A10"]
+    },
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+                {"label": "K00", "x": 0, "y": 0}, {"label": "K01", "x": 1, "y": 0}, {"label": "K02", "x": 2, "y": 0},
+                {"label": "K10", "x": 0, "y": 1}, {"label": "K11", "x": 1, "y": 1}, {"label": "K12", "x": 2, "y": 1},
+                {"label": "K20", "x": 0, "y": 2}, {"label": "K21", "x": 1, "y": 2}, {"label": "K22", "x": 2, "y": 2}
+            ]
+        }
+    }
+}

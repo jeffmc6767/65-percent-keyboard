@@ -1,0 +1,8 @@
+#pragma once
+
+#define BACKLIGHT_PIN A06
+#define BACKLIGHT_LEVELS 1
+
+#define ENCODERS_PAD_A { A07, A08 } 
+#define ENCODERS_PAD_B { A05, A09 }
+#define ENCODER_RESOLUTION 4
