@@ -1,0 +1,9 @@
+Item,Description,Part Number / Spec,Qty,Unit Price (CAD $),Subtotal (CAD $),13% Tax (CAD $),Total (CAD $),Total (USD $),Link
+2,Switching Diodes,1N4148,75,0.07,5.00,0.65,5.65,4.07,https://www.digikey.ca/en/products/detail/onsemi/1N4148/458603
+3,Rotary Encoder,PEC11R-4220F-S0024,2,4.30,8.60,1.12,9.72,7.00,https://www.digikey.ca/en/products/detail/bourns-inc/PEC11R-4220F-S0024/4499660
+4,Microcontroller Board,Raspberry Pi Pico 2WH,1,11.91,11.91,1.55,13.46,9.69,https://www.digikey.ca/en/products/detail/raspberry-pi/SC1634/26241087
+5,OLED Display Module,"0.91"" OLED (I2C)",1,9.00,9.00,1.17,10.17,7.32,https://www.amazon.ca/gp/product/B0CYXW1WPF/ref=ox_sc_saved_image_2?smid=A3NZ63JNHV007B&psc=1
+6,DigiKey Shipping Fee,Flat Shipping Rate,1,15.00,15.00,0.00,15.00,10.80,
+7,Printed Circuit Board,Custom Keyboard PCB,1,76.00,76.00,0.00,76.00,54.72,
+8,Keycap Stabilizers,6.25U and 2.00U Stabilizer Set,1,15.00,15.00,1.95,16.95,12.20,https://www.amazon.ca/gp/product/B0C61X6DNX/ref=ox_sc_saved_title_8?smid=A3FAG29GGXU06M&psc=1
+,Total,,,,140.51,6.44,146.95,105.80,
