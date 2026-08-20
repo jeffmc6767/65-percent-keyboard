@@ -1,6 +1,5 @@
 This is my 65-70% keyboard, which I like to call 67% keyboard.
 
-MY BOM IS IN THE PRODUCTION FILES FILE!!!
 -
 Here's what it has
 -
@@ -11,7 +10,11 @@ Here's what it has
 - 75x 1N4148 Diodes
 - 1x Raspberry Pi Pico 2WH
 
-It *should be* wireless through bluetooth and 2.4ghz but im not completely sure. 
+The keyboard will be wireless via bluetooth, 2.4gz, and also supports USBC connection
+
+My main goal of this keyboard is to have a wireless keyboard, but it is also so that I can have arrow keys and easier volume and brightness control. My current keyboard is 60% and hitting arrow keys is a lot harder because I need to click FN all the time, same with volume and brightness. 
+
+So now, I have dedicated arrow keys, and 2 rotary encoder nobs for volume and brightness control. 
 
 Here's some images:
 -
