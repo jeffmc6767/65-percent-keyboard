@@ -16,6 +16,13 @@ My main goal of this keyboard is to have a wireless keyboard, but it is also so 
 
 So now, I have dedicated arrow keys, and 2 rotary encoder nobs for volume and brightness control. 
 
+How can you build it yourself. 
+
+1. Buy all the parts in the BOM (Also make sure to buy Cherry MX switches that are 3 or 5 pin) and order a PCB
+2. solder everything according to the layout on the PCB
+3. Install firmware to the raspberry pi pico 2wh
+4. Now you can use it! the buttons are also customizable through the software!
+
 Here's some images:
 -
 
